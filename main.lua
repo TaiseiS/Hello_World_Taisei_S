@@ -13,7 +13,7 @@ print ("*** Yes I do enjoy deleting myself at many occasions***")
 --hides the status bar hahahahahahahaha
 display.setStatusBar(display.HiddenStatusBar)
 --sets background colour
-display.setDefault("background", 2/255, 125/255, 75/255)
+display.setDefault("background", 2/255, 125/255, 175/255)
 
 --create local variable
 local textObject
